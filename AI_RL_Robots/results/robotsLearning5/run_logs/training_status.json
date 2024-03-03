@@ -1,0 +1,47 @@
+{
+    "Manipulator": {
+        "checkpoints": [
+            {
+                "steps": 499604,
+                "file_path": "results\\robotsLearning5\\Manipulator\\Manipulator-499604.onnx",
+                "reward": -1.552708387374878,
+                "creation_time": 1709468471.6848383,
+                "auxillary_file_paths": [
+                    "results\\robotsLearning5\\Manipulator\\Manipulator-499604.pt"
+                ]
+            },
+            {
+                "steps": 999232,
+                "file_path": "results\\robotsLearning5\\Manipulator\\Manipulator-999232.onnx",
+                "reward": -0.05978562695938244,
+                "creation_time": 1709468844.5714037,
+                "auxillary_file_paths": [
+                    "results\\robotsLearning5\\Manipulator\\Manipulator-999232.pt"
+                ]
+            },
+            {
+                "steps": 1000232,
+                "file_path": "results\\robotsLearning5\\Manipulator\\Manipulator-1000232.onnx",
+                "reward": -0.15690667312664744,
+                "creation_time": 1709468844.692199,
+                "auxillary_file_paths": [
+                    "results\\robotsLearning5\\Manipulator\\Manipulator-1000232.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000232,
+            "file_path": "results\\robotsLearning5\\Manipulator.onnx",
+            "reward": -0.15690667312664744,
+            "creation_time": 1709468844.692199,
+            "auxillary_file_paths": [
+                "results\\robotsLearning5\\Manipulator\\Manipulator-1000232.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.1.0+cpu"
+    }
+}
